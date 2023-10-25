@@ -10,8 +10,8 @@ following should be sufficient:
 
 A standard test is
 
-    python3 -c 'from robotic import ry; print("ry version:", ry.__version__, ry.compiled());'
-    python3 -c 'from robotic import ry; ry.test.RndScene()'
+    python3 -c 'import robotic as ry; print("ry version:", ry.__version__, ry.compiled());'
+    python3 -c 'import robotic as ry; ry.test.RndScene()'
 
 ## Compiling from Source & Docstrings
 
