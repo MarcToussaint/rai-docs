@@ -24,7 +24,7 @@ extensions = ['sphinx.ext.autodoc',
 nbsphinx_execute = 'never'
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'tutorials/prelim/*.ipynb', 'old/old']
 
 #source_suffix = ['.rst', '.md']
 

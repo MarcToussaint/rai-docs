@@ -19,9 +19,9 @@ Systems Lab <https://argmin.lis.tu-berlin.de/>`_, operate our robots.
    getting_started
    tutorials
    script/script
-   old/old
    rai
 
+..   old/old
 ..   tut/tutorials
 ..   tut/appendices
 ..   tut/t0*
