@@ -29,9 +29,9 @@ The remaining tutorials cover various topics in more depth:
    tutorials/config_3_import_edit
    tutorials/komo_2_reporting
    tutorials/komo_3_manipulation
-   tutorials/intf_physx_simulation
-   tutorials/intf_rendering
-   tutorials/intf_rrt
-   tutorials/intf_nlp_solvers
-   tutorials/intf_gym_environment
+   tutorials/ext_physx_simulation
+   tutorials/ext_rendering
+   tutorials/ext_rrt
+   tutorials/ext_nlp_solvers
+   tutorials/ext_gym_environment
    
