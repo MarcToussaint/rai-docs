@@ -5,8 +5,9 @@
 Install the `robotic` python package. On a standard Ubuntu, the
 following should be sufficient:
 
-    sudo apt install liblapack3 freeglut3 libglew-dev python3 python3-pip
-    python3 -m pip install --user robotic
+    sudo apt install liblapack3 freeglut3 libglu1-mesa libfreetype6 fonts-ubuntu python3 python3-pip
+    #latest Ubuntu: libglut3.12 and 'cd /usr/lib/x86_64-linux-gnu/ && sudo ln -s libglut.so.3.12 libglut.so.3'
+    python3 -m pip install --user robotic numpy
 
 A standard test is
 
